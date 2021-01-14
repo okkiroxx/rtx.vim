@@ -1,5 +1,6 @@
 # rtx.vim
 VimのYAMAHAのルータconfig用syntaxファイルです。
+rtxというファイルタイプを勝手に設定します。
 ![Screenshot](https://github.com/okkiroxx/rtx.vim/blob/main/images/screenshot.png)
 
 だいぶ前に作成したもので記憶がありません。修正とか出来る自信もありません。
