@@ -2,8 +2,8 @@
 VimのYAMAHAのルータconfig用syntaxファイルです。
 ![Screenshot](https://github.com/okkiroxx/rtx.vim/blob/main/images/screenshot.png)
 
-だいぶ前に作成したもので記憶がありませんしw、修正とか出来る自信はありません。
-公開するつもりも無かったので適当です。
+だいぶ前に作成したもので記憶がありません。修正とか出来る自信もありません。
+公開するつもりも無かったので適当ですし、重いです。
 
 ### インストール
 プラグインマネージャで普通に入ると思います。
