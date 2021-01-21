@@ -14,3 +14,6 @@ rtxというファイルタイプを勝手に設定します。
 Plug 'okkiroxx/rtx.vim'
 
 ```
+
+## License
+MIT
