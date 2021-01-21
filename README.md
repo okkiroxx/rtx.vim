@@ -3,13 +3,13 @@ VimでYAMAHA製ルータのconfigをええ感じに見る為のsyntaxファイ�
 rtxというファイルタイプを勝手に設定します。
 ![Screenshot](https://github.com/okkiroxx/rtx.vim/blob/main/images/screenshot.png)
 
-だいぶ前に作成したもので記憶がありません。修正とか出来る自信もありません。
-公開するつもりも無かったので適当ですし、重いです。
+だいぶ前に作成したもので記憶がありません。
+重いです。
 
 ## インストール
 プラグインマネージャで普通に入ると思います。
 
-vim-plugでの例
+[vim-plug](https://github.com/junegunn/vim-plug)での例
 ```
 Plug 'okkiroxx/rtx.vim'
 
