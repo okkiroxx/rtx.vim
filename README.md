@@ -15,5 +15,12 @@ Plug 'okkiroxx/rtx.vim'
 
 ```
 
+## NVRやWLXなど
+自動でファイルタイプを検出しませんので、
+```
+:set ft=rtx
+```
+してください。
+
 ## License
 MIT
